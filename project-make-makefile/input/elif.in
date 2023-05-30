@@ -1,0 +1,15 @@
+So.....
+Turns out that there are ways to only affect one file.
+As in a second file might not get processed.
+
+That being the case,
+we kind of need a second file in the given stuff for testing.
+
+That way you can be more confident your Makefile hits all files.
+
+So, uhhh, here you go.
+Best of luck,
+and congratulations,
+you basically at the end of this class.
+
+-蛇
